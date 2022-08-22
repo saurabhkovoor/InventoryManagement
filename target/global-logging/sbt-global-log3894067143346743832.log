@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(10968079-155e-4323-9303-42180ba43454), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 24 Scala sources to D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\Sunway\Sem 4\OOP\submission\InventoryManagement\src\main\scala\com\inventory\MainApp.scala:124:13: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    control.loginClicked[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m7 deprecations (since 8.0.60-R10); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 36 s, completed Jul 24, 2021 1:11:31 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.input.KeyCodeCombination?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="400.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.inventory.view.RootMenuController">
+   <center>
+      <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="530.0" />
+   </center>
+   <left>
+      <AnchorPane prefHeight="400.0" prefWidth="170.0" styleClass="bluebackground" stylesheets="@InventoryApp.css" BorderPane.alignment="TOP_LEFT">
+         <children>
+            <Button layoutX="15.0" layoutY="27.0" mnemonicParsing="false" onAction="#handleHomeButton" prefHeight="54.0" prefWidth="135.0" styleClass="button3" text="    HOME" />
+            <Button layoutX="13.0" layoutY="321.0" mnemonicParsing="false" onAction="#handleLogOutButton" prefHeight="55.0" prefWidth="132.0" styleClass="button3" text="        LOG OUT" />
+            <ImageView fitHeight="34.0" fitWidth="34.0" layoutX="26.0" layoutY="332.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@/images/log-out.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="35.0" fitWidth="33.0" layoutX="28.0" layoutY="37.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@/images/home.png" />
+               </image>
+            </ImageView>
+            <VBox layoutX="12.0" layoutY="103.0" spacing="10.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#handleProductButton" prefHeight="25.0" prefWidth="135.0" styleClass="button3" text="PRODUCTS" />
+                  <Button mnemonicParsing="false" onAction="#handleProductCategoryButton" prefHeight="25.0" prefWidth="135.0" styleClass="button3" text="CATEGORIES" />
+                  <Button mnemonicParsing="false" onAction="#handleSupplierButton" prefHeight="25.0" prefWidth="135.0" styleClass="button3" text="SUPPLIERS" />
+                  <Button mnemonicParsing="false" onAction="#handleOrderButton" prefHeight="25.0" prefWidth="135.0" styleClass="button3" text="ORDERS" />
+                  <Button mnemonicParsing="false" onAction="#handleUserButton" prefHeight="25.0" prefWidth="135.0" styleClass="button3" text="USERS" />
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </left>
+   <top>
+      <MenuBar stylesheets="@InventoryApp.css" BorderPane.alignment="TOP_CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem onAction="#handleClose" text="Close">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="X" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <MenuItem onAction="#handleLogOutButton" text="Log Out">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="L" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Page">
+            <items>
+              <MenuItem onAction="#handleHomeButton" text="Home">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="M" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <MenuItem onAction="#handleProductButton" text="Product">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="P" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+                  <MenuItem onAction="#handleProductCategoryButton" text="Category">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="C" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+                  <MenuItem onAction="#handleSupplierButton" text="Supplier">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="S" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+                  <MenuItem onAction="#handleOrderButton" text="Order">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="O" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+                  <MenuItem onAction="#handleUserButton" text="User">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="U" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator>
+                  </MenuItem>
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem onAction="#handleHelpButton" text="About">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="H" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>

@@ -1,0 +1,195 @@
+/*for pane and container background*/
+.bluebackground {
+    -fx-background-color: #00aeef;
+}
+
+.pane-blue{
+    -fx-background-color : #00aeef;
+    -fx-background-radius :  0 0 20 20;
+}
+
+.homepage-welcome-pane{
+    -fx-background-color : #00aeef;
+    -fx-background-radius :  20;
+}
+
+/*for texts*/
+.white-label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: white;
+}
+
+.blue-label {
+    -fx-font-size: 35pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: #00aeef;
+}
+
+.blue-label-small {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: #00aeef;
+}
+
+.black-label-small {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: #000;
+}
+
+.white-large-text{
+    -fx-font-size: 35pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: white;    
+}
+
+.blue-large-text{
+    -fx-font-size: 11pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: #00aeef;
+}
+
+
+.white-heading-text{
+    -fx-font-size: 18pt;
+    -fx-font-family: "Roboto Black";
+    -fx-fill: white;
+}
+
+.blue-heading-text{
+    -fx-font-size: 18pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: #00aeef !important;
+}
+
+.top-heading-blue {
+    -fx-fill : #00aeef;
+    -fx-background-radius :  20;
+    -fx-stroke : #003366;
+}
+
+
+/* for buttons*/
+.button1
+{
+-fx-background-color : #00aeef;
+-fx-text-alignment: center;
+-fx-font-size: 15px;
+-fx-text-fill: #ffffff;
+-fx-font-weight: bold;
+-fx-background-radius :  10 10 10 10;
+}
+.button1:hover
+{
+-fx-background-color : #0082b1 ;
+}
+.button1:pressed
+{
+-fx-background-color : #012735 ;
+}
+
+.button2
+{
+-fx-text-alignment: center;
+-fx-text-fill: #ffffff;
+-fx-font-weight: bold;
+-fx-background-color : #00aeef;
+-fx-background-radius :  20;
+}
+.button2:hover
+{
+-fx-background-color : #0082b1 ;
+}
+.button2:pressed
+{
+-fx-background-color : #012735  ;
+}
+
+.button3
+{
+-fx-text-alignment: center;
+-fx-text-fill: #ffffff;
+-fx-font-weight: bold;
+-fx-background-color : #003366;
+;
+-fx-background-radius :  20;
+}
+.button3:hover
+{
+-fx-background-color : #001933 ;
+}
+.button3:pressed
+{
+-fx-background-color : #000a14  ;
+}
+
+/* for top menu bar*/
+.menu-bar {
+    -fx-background-color: derive(#003366,0%);
+}
+
+.context-menu {
+    -fx-background-color: derive(#003366,50%);
+}
+
+.menu-bar .label {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Roboto Black";
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+}
+
+
+/* table view*/
+.table-view {
+    -fx-base: #00aeef;
+    -fx-control-inner-background: #e5f6fd;
+    -fx-background-color: #e5f6fd;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+}
+
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 15;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-alignment: center-left;
+    -fx-opacity: 1;
+}
+
+.table-view .cell{
+    -fx-cell-size: 35;
+    -fx-alignment: center-left;
+    -fx-alignment: CENTER_LEFT;
+ }
+ 
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: -fx-focus-color;
+    -fx-font-weight: bold; 
+}
+
+/* scroll bar*/
+/* For increment and decrement button on scrollbar */
+.table-view .increment-button ,.table-view .decrement-button {
+    -fx-background-color:transparent;
+	-fx-background-radius: 10;
+
+}
+
+/* For scrollbar track */
+.table-view .scroll-bar .track{
+	-fx-background-color: transparent;
+	-fx-background-radius: 10;
+	-fx-border-radius:10;
+}
+
+/* The scrollbar movable button*/
+.table-view .scroll-bar .thumb {
+    -fx-background-color: #003366;
+	-fx-background-radius: 10;
+}

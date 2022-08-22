@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 24 01:11:08 SGT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017a-d459-6c56-000005a4b770 
+on database directory D:\Sunway\Sem 4\OOP\submission\InventoryManagement\myDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/D:/Sunway/Sem%204/OOP/submission/InventoryManagement/target/bg-jobs/sbt_1da58dd/target/d5f03f0b/d4f190b2/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=D:\Sunway\Sem 4\OOP\submission\InventoryManagement
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

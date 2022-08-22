@@ -1,0 +1,245 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\inventorymanagement_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$11$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$11$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$13$$anon$14.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$13$$anon$14.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$15$$anon$16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$15$$anon$16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$15.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$15.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$9$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$9$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\LaptopCategory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\LaptopCategory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\LaptopCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\LaptopCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Order$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Order$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Order$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Order.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\PhoneCategory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\PhoneCategory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\PhoneCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\PhoneCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Product$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Product$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\ProductCategory$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\ProductCategory$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\ProductCategory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\ProductCategory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\ProductCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\ProductCategory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Supplier$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Supplier$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Supplier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Supplier$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\Supplier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\Supplier.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\User$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\User$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\model\User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\model\User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util\DateUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util\DateUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util\DateUtil$DateFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util\DateUtil$DateFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util\DateUtil$StringFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util\DateUtil$StringFormater.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\util\DateUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\util\DateUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\HomePage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\HomePage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\HomePageController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\HomePageController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\HomePageController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\HomePageController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\InventoryApp.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\InventoryApp.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\Login.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\Login.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\LoginDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\LoginDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\LoginDialogController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\LoginDialogController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\LoginDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\LoginDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\LoginDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\LoginDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\Order.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\Order.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\OrderEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\OrderEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\Product.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\Product.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategory.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategory.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductCategoryEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductCategoryEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\ProductEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\ProductEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RegistrationDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RegistrationDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RegistrationDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RegistrationDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RegistrationDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RegistrationDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RegistrationDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RegistrationDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RootMenu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RootMenu.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RootMenuController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RootMenuController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RootMenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RootMenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\RootMenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\RootMenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\Supplier.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\Supplier.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\SupplierEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\SupplierEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\User.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\User.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserController$Controller$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserEditDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserEditDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserEditDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\inventory\view\UserEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\com\inventory\view\UserEditDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\categories.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\categories.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\home.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\home.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\log-out.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\log-out.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\orders.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\orders.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\products.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\products.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\smartphone-logo.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\smartphone-logo.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\supplier.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\supplier.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\user-login.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\user-login.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\user.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Sunway\Sem 4\OOP\submission\InventoryManagement\target\scala-2.12\classes\images\user.png[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\Sunway\Sem 4\OOP\submission\InventoryManagement\src\main\scala\com\inventory\MainApp.scala:124:13: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    control.loginClicked[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m7 deprecations (since 8.0.60-R10); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
